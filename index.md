@@ -38,16 +38,7 @@ For a workshop please delete the following block until the next dashed-line
 {% endcomment %}
 
 
-<div class="alert alert-danger">
-This is the TU Delft SCW workshop template. Delete these lines and use it to
-<a href="https://carpentries.github.io/workshop-template/customization/index.html">customize</a>
-your own website. If you are running a self-organized workshop or have not put
-in a workshop request yet, please also fill in
-<a href="{{site.amy_site}}/forms/self-organised/">this workshop request form</a>
-to let us know about your workshop and our administrator may contact you if we
-need any extra information.
-You can update the schedule by editing the file `_includes/swc/schedule.html`, and change instructor names and date/time by editing the file `index.md`. 
-</div>
+
 
 {% comment %}
 8< ============================= until here ==================
